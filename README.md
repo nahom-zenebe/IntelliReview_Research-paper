@@ -1,7 +1,7 @@
-# IntelliReview_2025
+# IntelliReview_Research_Paper
 
 ## Description
-**IntelliReview** is a comprehensive research paper management system designed to help researchers, students, and academics efficiently organize, 
+**IntelliReview_Research_Paper** is a comprehensive research paper management system designed to help researchers, students, and academics efficiently organize, 
 search, and interact with research papers. The platform provides advanced search and filtering capabilities, offline access, paper sharing, and user-friendly 
 tools for organizing and reviewing papers. With features like bookmarking, folder organization, IntelliReview simplifies the research
 process and enhances productivity.
